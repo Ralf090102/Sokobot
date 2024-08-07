@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 public class sokobot extends Application{
     @Override
     public void start(Stage primaryStage){
-        Label label = new Label("Hello, JavaFX!");
+        Label label = new Label("Hello, JavaFX!!!");
         Scene scene = new Scene(label, 400, 200);
         primaryStage.setScene(scene);
         primaryStage.setTitle("Hello JavaFX");
